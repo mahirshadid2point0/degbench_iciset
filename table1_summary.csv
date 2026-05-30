@@ -1,0 +1,5 @@
+Condition,Valid SMILES (%),Exact Match (%),Tanimoto Similarity
+clean,90.0,70.0,0.846
+mild,100.0,70.0,0.8740000000000001
+moderate,100.0,70.0,0.893
+severe,100.0,70.0,0.8740000000000001
